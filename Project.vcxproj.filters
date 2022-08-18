@@ -21,10 +21,18 @@
     <ClInclude Include="Header2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="2022.8.18.(반복문의 설명).h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2022.8.18.%28변수의 설명%29.hh">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

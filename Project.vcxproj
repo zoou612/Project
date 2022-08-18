@@ -139,11 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="2022.8.18.(반복문의 설명).h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="Header2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2022.8.18.%28변수의 설명%29.hh" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
