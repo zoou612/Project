@@ -24,6 +24,9 @@
     <ClInclude Include="2022.8.18.(반복문의 설명).h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="2022.8.18.(자료형 변환).h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.c">
